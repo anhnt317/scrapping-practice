@@ -1,2 +1,3 @@
 # scrapping-practice
-just practice web scrapping for fun
+This repository just for practice web scrapping with fun ^_^ !
+
